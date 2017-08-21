@@ -1,0 +1,24 @@
+{
+  "name": "GDRD56",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyaxiang/GDRD56.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyaxiang/GDRD56/issues"
+  },
+  "homepage": "https://github.com/liuyaxiang/GDRD56#readme",
+  "dependencies": {
+    "crc16": "^1.0.0",
+    "modbus-tcp": "^0.4.12"
+  }
+}
